@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**anaclaudiamunari2/anaclaudiamunari2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nomeé Ana Clauia Larentis Munari
 
-Here are some ideas to get you started:
+- estou estudando na alura (alura://www.alura.com.br
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desevolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-### Voce pode entrar em contato comigo💙
+
+larentismunarianaclaudia@gmail.com
+
+
+
+https://media.tenor.com/LZzzhwHYm8oAAAAi/gr%C3%AAmio-gauxo.gif
+
