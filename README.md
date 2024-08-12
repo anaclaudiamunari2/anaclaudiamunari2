@@ -14,3 +14,4 @@ larentismunarianaclaudia@gmail.com
 
 https://media.tenor.com/LZzzhwHYm8oAAAAi/gr%C3%AAmio-gauxo.gif
 
+![descrição do GIF](https://media.tenor.com/LZzzhwHYm8oAAAAi/gr%C3%AAmio-gauxo.gif)
